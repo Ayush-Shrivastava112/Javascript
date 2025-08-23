@@ -1,0 +1,3 @@
+//Datatypes is of two types :
+//Primitive 7 types - BigInt , string , boolean , undefined , null , number Symbol
+//Reference (Non-primitive)- Array , Object , function
