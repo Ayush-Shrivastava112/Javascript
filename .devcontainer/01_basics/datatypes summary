@@ -1,3 +1,6 @@
 //Datatypes is of two types :
-//Primitive 7 types - BigInt , string , boolean , undefined , null , number Symbol
-//Reference (Non-primitive)- Array , Object , function
+//Primitive 7 types(Stack) - BigInt , string , boolean , undefined , null , number Symbol
+//Reference (Non-primitive)(Heap)- Array , Object , function
+
+//Memory types:
+//Stack and Heap
